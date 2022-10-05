@@ -2,3 +2,4 @@
 'ls' displays list of contents
 'cd~' changes directory to home
 'ls -l' lists in a long format
+'ls -la.' displays hidden files
