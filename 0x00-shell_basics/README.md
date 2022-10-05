@@ -17,3 +17,4 @@ moving a file to a new directory
 'rm *~' removes all files ending with ~
 'mkdir -p' creates directories in succession
 sorting
+ceating a magic file that detects
