@@ -15,3 +15,4 @@ moving a file to a new directory
 'cp -un *html' copies html files that never existed in a dir.
 'mv [[:upper:]]' moves upper case letters
 'rm *~' removes all files ending with ~
+'mkdir -p' creates directories in succession
