@@ -8,3 +8,4 @@
 moving a file to a new directory
 'rm' removes a file from a directory
 'rm -rf' removes a directory
+'cd -' changes to previous directory
