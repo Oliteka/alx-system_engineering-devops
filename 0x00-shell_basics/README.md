@@ -5,3 +5,4 @@
 'ls -la.' displays hidden files
 'ls -na' displays hidden files in uid/gid
 'mkdir' makes a directory
+moving a file to a new directory
