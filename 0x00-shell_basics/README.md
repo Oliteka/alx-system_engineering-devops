@@ -12,3 +12,4 @@ moving a file to a new directory
 'ls la. ..' lists hiddden files in a long format in different dir.
 'file' prints the file type
 'ln -s' symbolic links of files
+'cp -un *html' copies html files that never existed in a dir.
