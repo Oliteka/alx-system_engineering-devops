@@ -16,3 +16,4 @@ moving a file to a new directory
 'mv [[:upper:]]' moves upper case letters
 'rm *~' removes all files ending with ~
 'mkdir -p' creates directories in succession
+sorting
