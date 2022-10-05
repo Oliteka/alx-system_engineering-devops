@@ -13,3 +13,4 @@ moving a file to a new directory
 'file' prints the file type
 'ln -s' symbolic links of files
 'cp -un *html' copies html files that never existed in a dir.
+'mv [[:upper:]]' moves upper case letters
