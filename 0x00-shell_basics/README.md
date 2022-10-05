@@ -14,3 +14,4 @@ moving a file to a new directory
 'ln -s' symbolic links of files
 'cp -un *html' copies html files that never existed in a dir.
 'mv [[:upper:]]' moves upper case letters
+'rm *~' removes all files ending with ~
