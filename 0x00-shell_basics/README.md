@@ -9,3 +9,4 @@ moving a file to a new directory
 'rm' removes a file from a directory
 'rm -rf' removes a directory
 'cd -' changes to previous directory
+'ls la. ..' lists hiddden files in a long format in different dir.
